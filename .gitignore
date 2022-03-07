@@ -1,0 +1,8 @@
+# Editor
+.idea/
+
+# Environment Stuff
+.env
+
+# Others
+.DS_Store
